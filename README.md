@@ -31,13 +31,13 @@ npm run start
 Note: If you use Docker, then replace 'podman' with 'docker' for all commands below.
 
 ```sh
-podman build -t suncor-demo-web ./
+podman build -t auth-demo ./
 ```
 
 ### Start Container
 
 ```sh
-podman run -d -p 3000:3000 --name=suncore-demo-web suncor-demo-web
+podman run -d -p 3000:3000 --name=auth-demo auth-demo
 ```
 
 ## Tech Stack
