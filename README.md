@@ -1,4 +1,4 @@
-# Suncor Demo
+# OAuh2 Demo
 
 ## Getting Started
 
